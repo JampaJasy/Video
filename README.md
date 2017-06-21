@@ -22,7 +22,7 @@ Vervolgens zet je een video tag en zorg je ervoor dat je een texures map heb waa
 
 <video id="video" autoplay loop webkit-playsinline style="display:none">
 			<source src="textures/M41_Linkerbaan.mp4">
-		</video>
+</video>
     
 Daarna zet je de gegeven script in de webglvideo.html ook onderin in je eigen html. 
     
